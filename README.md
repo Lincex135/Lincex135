@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hey! I'm Ximena</b><img alt="Hola" width="7px" align="center" src="https://media.tenor.com/v94igzx3v-EAAAAj/bugcat-capoo.gif"></img></h1>
+<h1 align="center"><b>Hey! I'm Ximena</b><img alt="Hola" width="70px" align="center" src="https://media.tenor.com/v94igzx3v-EAAAAj/bugcat-capoo.gif"></img></h1>
 
 ## 👩‍💻 About Me
 First-year DAM student with a thing for clean code, good music, and way too many hours in video games.  
